@@ -1,0 +1,20 @@
+Symbols and Runes Pack - CPasteGame
+Version 1.0
+
+Package contains:
+- 75 Symbols
+- 24 Runes
+- 10 Background (Stones, Scrolls)
+- 4 Different color styles
+
+
+Folder Usage:
+- "Original"
+Symbols and Runes without BG, included 4 different color styles
+
+- "Symbol BG"
+Background Stones, Scrolls
+
+- "Mixed BG"
+Symbols and Runes with BG joined in 1 sprites,
+included different color styles with different stones, scrolls
